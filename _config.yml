@@ -1,0 +1,35 @@
+name: Super
+description:
+meta_description: ""
+
+aboutPage: true
+
+markdown: redcarpet
+highlighter: pygments
+
+paginate: 20
+baseurl: /
+domain_name: 'supergrubby.com'
+google_analytics: 'UA-49866314-1'
+disqus_shortname: 'supergrubby'
+
+# Details for the RSS feed generator
+url:            'http://supergrubby.com'
+author:         'Gao, Chao'
+authorTwitter:  'supergrubby'
+
+permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
