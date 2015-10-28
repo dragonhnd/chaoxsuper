@@ -9,12 +9,12 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'supergrubby.com'
+domain_name: 'chaoxsuper.com'
 google_analytics: 'UA-49866314-1'
 disqus_shortname: 'supergrubby'
 
 # Details for the RSS feed generator
-url:            'http://supergrubby.com'
+url:            'http://chaoxsuper.com'
 author:         'Gao, Chao'
 authorTwitter:  'supergrubby'
 
