@@ -1,5 +1,5 @@
 ---
-title: "攻壳机动队 攻殻機動隊 STAND ALONE COMPLEX"
+title: "STAND ALONE COMPLEX"
 date: 2015-07-28 21:27:31
 description: 随笔
 ---

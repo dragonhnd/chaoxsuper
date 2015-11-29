@@ -1,5 +1,5 @@
 ---
-title: "How do I organize my life in the Information Age"
+title: "Organize Life In The Information Age"
 date: 2014-12-17 13:24:21
 description: Ideas sharing about connecting one's internet life
 ---
